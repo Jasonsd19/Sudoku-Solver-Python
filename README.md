@@ -7,4 +7,4 @@ To test the program I entered the "World's hardest sudoku"
 ![](hardest_sudoku.jpg)  
   
 Here is the solution  
-![](hardest_sudoku_solution.png)
+![](hardest_sudoku_solution.PNG)
